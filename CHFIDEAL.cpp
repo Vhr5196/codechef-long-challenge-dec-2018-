@@ -6,6 +6,9 @@
 //  Copyright © 2018 Hemanth Reddy. All rights reserved.
 
 
+https://www.codechef.com/DEC18B/problems/CHFIDEAL/
+
+
 #include<iostream>
 using namespace std;
 
